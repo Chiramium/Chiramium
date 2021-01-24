@@ -1,4 +1,4 @@
-## Chiramium（ちらみ）
+## Chiramium / ちらみ
 
 I belong to 4J (Computer Sciences) in Nagano National College of Technology (NNCT, NITNC).
 
