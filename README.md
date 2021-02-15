@@ -18,7 +18,8 @@ I belong to 4J (Computer Sciences) in Nagano National College of Technology (NNC
 
 A simplified clock application (for Windows). 
 
-![lang:C](https://img.shields.io/badge/language-C-888888?style=flat-square)[![version](https://img.shields.io/github/v/release/Chiramium/Satellite?style=flat-square)](https://github.com/Chiramium/Satellite/releases) 
+![lang:C](https://img.shields.io/badge/language-C-888888?style=flat-square)
+[![version](https://img.shields.io/github/v/release/Chiramium/Satellite?style=flat-square)](https://github.com/Chiramium/Satellite/releases) 
 
 ----
 
@@ -28,7 +29,8 @@ A simplified clock application (for Windows).
 
 A shooting game with pop design (for Windows). 
 
-![lang:C](https://img.shields.io/badge/language-C-888888?style=flat-square)[![version](https://img.shields.io/github/v/release/Chiramium/PlayGround?style=flat-square)](https://github.com/Chiramium/PlayGround/releases) 
+![lang:C](https://img.shields.io/badge/language-C-888888?style=flat-square)
+[![version](https://img.shields.io/github/v/release/Chiramium/PlayGround?style=flat-square)](https://github.com/Chiramium/PlayGround/releases) 
 
 ----
 
