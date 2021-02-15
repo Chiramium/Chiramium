@@ -8,12 +8,12 @@ I belong to 4J (Computer Sciences) in Nagano National College of Technology (NNC
 
 ## Languages and Tools
 
-<img src="./icons/c-lang.svg" alt="c" width="64"/>
-<img src="./icons/php.svg" alt="php" width="64"/>
-<img src="./icons/vue.svg" alt="vue" height="48"/>
-<img src="./icons/laravel.svg" alt="laravel" height="48"/>
-<img src="./icons/sqlite.svg" alt="sqlite" height="48"/>
-<img src="./icons/tailwind.svg" alt="tailwind" height="48"/>
+[<img src="./icons/c-lang.svg" alt="c" width="64"/>]()
+[<img src="./icons/php.svg" alt="php" width="64"/>]()
+[<img src="./icons/vue.svg" alt="vue" height="48"/>]()
+[<img src="./icons/laravel.svg" alt="laravel" height="48"/>]()
+[<img src="./icons/sqlite.svg" alt="sqlite" height="48"/>]()
+[<img src="./icons/tailwind.svg" alt="tailwind" height="48"/>]()
 
 ## Products
 
